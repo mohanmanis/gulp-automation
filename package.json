@@ -1,0 +1,28 @@
+{
+  "name": "gulp-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohanmanis/gulp-browserify.git"
+  },
+  "author": "Manish Mohan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohanmanis/gulp-browserify/issues"
+  },
+  "homepage": "https://github.com/mohanmanis/gulp-browserify#readme",
+
+  "devDependencies": {
+    "browser-sync": "^2.14.0",
+    "browserify": "^11.1.0",
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.6",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.4.0"
+  }
+}
